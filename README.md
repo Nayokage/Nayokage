@@ -22,23 +22,35 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 **Programming Languages**
-- **Primary:** Python, TypeScript, JavaScript 
-- **Learning:** Rust, Go, HTML, CSS 
+- **Primary:** Python, TypeScript, JavaScript
+- **Learning:** Rust, Go, HTML, CSS
 
 ### 🎌 **Anime Interests**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" style="filter: hue-rotate(270deg);">
+</div>
+
 - **Date a Live** - Kurumi Tokisaki ❤️
+- *"Time manipulation & code precision"*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 **Coding Focus**
 - Discord Bot Development
-- Web Application Architecture
+- Web Application Architecture  
 - API Design & Integration
 - Full-Stack Development
+
+### 🎮 **Current Projects**
+- Advanced Discord Bots
+- TypeScript Bridge Systems
+- Python Automation Tools
+- Anime-Themed Applications
 
 </td>
 </tr>
@@ -89,10 +101,10 @@
 </td>
 <td width="50%">
 
-### 🤖 **Jojoba-Anteiku_Bot**
+### 🤖 **Jojoba-Anteiku Bot**
 *Tokyo Ghoul Inspired Discord Bot*
 
-[![Jojoba-Anteiku-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Nayokage&repo=Jojoba-Anteiku_Bot&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9&border_color=FF6B9D&border_radius=10)](https://github.com/Nayokage/Jojoba-Anteiku-Bot)
+[![Jojoba-Anteiku-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Nayokage&repo=Jojoba-Anteiku-Bot&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9&border_color=FF6B9D&border_radius=10)](https://github.com/Nayokage/Jojoba-Anteiku-Bot)
 
 **Technologies:** Python, Discord.py, Database Integration
 
@@ -171,9 +183,9 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_discord)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/your_steam)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nayokage)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/901397368354779137)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nayokage)
 
 </div>
 
