@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Python+%26+TypeScript+Developer;IT+Student+from+Ukraine+🇺🇦;Anime+Enthusiast+%7C+Kurumi+Tokisaki+❤️;Discord+Bot+Creator+%7C+Code+Architect" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/100927888/477391680-1575dd87-6381-4b1e-961d-5935b1bad57d.gif" width="500">
+<img src="https://private-user-images.githubusercontent.com/100927888/477391680-1575dd87-6381-4b1e-961d-5935b1bad57d.gif" width="500">
 
 </div>
 
