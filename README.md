@@ -27,6 +27,8 @@
 ### 💻 **Programming Languages**
 - **Primary:** Python, TypeScript, JavaScript
 - **Learning:** Rust, Go, HTML, CSS
+</td>
+<td width="50%" valign="top">
 
 ### 🎌 **Anime Interests**
 
