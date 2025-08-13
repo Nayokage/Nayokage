@@ -48,6 +48,9 @@
 - API Design & Integration
 - Full-Stack Development
 
+</td>
+<td width="50%" valign="top">
+
 ### 🎮 **Current Projects**
 - Advanced Discord Bots
 - TypeScript Bridge Systems
