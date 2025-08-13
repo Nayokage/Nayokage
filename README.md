@@ -33,7 +33,7 @@
 ### 🎌 **Anime Interests**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nayokage/Nayokage/refs/heads/main/gif/KurumiGifnk.gif" width="200" style="filter: hue-rotate(270deg);">
+<img src="https://raw.githubusercontent.com/Nayokage/Nayokage/refs/heads/main/gif/KurumiGifnk.gif" width="350" style="filter: hue-rotate(270deg);">
 </div>
 
 - **Date a Live** - Kurumi Tokisaki ❤️
