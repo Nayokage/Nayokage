@@ -25,14 +25,11 @@
 <td width="50%">
 
 ### 💻 **Programming Languages**
-- **Primary:** Python, TypeScript
-- **Secondary:** JavaScript, HTML, CSS  
-- **Learning:** Rust, Go
+- **Primary:** Python, TypeScript, JavaScript 
+- **Learning:** Rust, Go, HTML, CSS 
 
 ### 🎌 **Anime Interests**
 - **Date a Live** - Kurumi Tokisaki ❤️
-- **Tokyo Ghoul** - Ken Kaneki
-- **Philosophy:** Time manipulation & code precision
 
 </td>
 <td width="50%">
@@ -42,11 +39,6 @@
 - Web Application Architecture
 - API Design & Integration
 - Full-Stack Development
-
-### 🎮 **Hobbies**
-- Gaming & Anime Watching
-- Code Architecture Design
-- Open Source Contributing
 
 </td>
 </tr>
