@@ -109,7 +109,7 @@
 ### 🤖 **Jojoba-Anteiku Bot**
 *Tokyo Ghoul Inspired Discord Bot*
 
-[![Jojoba-Anteiku_Bot](https://github-readme-stats.vercel.app/api/pin/?username=Nayokage&repo=Jojoba-Anteiku-Bot&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9&border_color=FF6B9D&border_radius=10)](https://github.com/Nayokage/Jojoba-Anteiku_Bot)
+[![Jojoba-Anteiku_Bot](https://github-readme-stats.vercel.app/api/pin/?username=Nayokage&repo=Jojoba-Anteiku_Bot&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9&border_color=FF6B9D&border_radius=10)](https://github.com/Nayokage/Jojoba-Anteiku_Bot)
 
 **Technologies:** Python, Discord.py, Database Integration
 
